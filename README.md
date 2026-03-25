@@ -1,1 +1,1 @@
-# Open-Data-for-African-Data-Driven-Growth-Newsletter
+# Open Data for African Data-Driven Growth - Newsletter
