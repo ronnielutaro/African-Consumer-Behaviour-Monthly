@@ -1,0 +1,61 @@
+# ── FiveThirtyEight ──────────────────────────────────────────────────────────
+# Ignore any FiveThirtyEight files/directories (datasets, forks, downloads)
+FiveThirtyEight/
+fivethirtyeight/
+FiveThirtyEight
+fivethirtyeight
+*fivethirtyeight*
+*FiveThirtyEight*
+
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ── Jupyter Notebooks ────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── R ────────────────────────────────────────────────────────────────────────
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# ── macOS ────────────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ── Windows ──────────────────────────────────────────────────────────────────
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ── Linux ────────────────────────────────────────────────────────────────────
+*~
+
+# ── Editors / IDEs ───────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── Temporary / scratch files ────────────────────────────────────────────────
+/tmp/
+*.tmp
+*.bak
+*.swp
+*.swo
