@@ -1,0 +1,43 @@
+year,country_name,country_code,internet_users_pct_population
+2005,Burundi,BDI,0.7
+2005,Kenya,KEN,3.1
+2005,Rwanda,RWA,0.9
+2005,South Sudan,SSD,
+2005,Tanzania,TZA,1.0
+2005,Uganda,UGA,1.7
+2010,Burundi,BDI,1.1
+2010,Kenya,KEN,25.9
+2010,Rwanda,RWA,7.7
+2010,South Sudan,SSD,
+2010,Tanzania,TZA,11.0
+2010,Uganda,UGA,12.5
+2015,Burundi,BDI,5.2
+2015,Kenya,KEN,43.4
+2015,Rwanda,RWA,18.0
+2015,South Sudan,SSD,7.0
+2015,Tanzania,TZA,15.0
+2015,Uganda,UGA,19.2
+2019,Burundi,BDI,5.0
+2019,Kenya,KEN,85.2
+2019,Rwanda,RWA,51.3
+2019,South Sudan,SSD,7.9
+2019,Tanzania,TZA,25.0
+2019,Uganda,UGA,26.0
+2020,Burundi,BDI,5.1
+2020,Kenya,KEN,85.9
+2020,Rwanda,RWA,53.0
+2020,South Sudan,SSD,8.0
+2020,Tanzania,TZA,26.1
+2020,Uganda,UGA,27.4
+2021,Burundi,BDI,5.3
+2021,Kenya,KEN,87.2
+2021,Rwanda,RWA,55.0
+2021,South Sudan,SSD,8.5
+2021,Tanzania,TZA,27.0
+2021,Uganda,UGA,28.0
+2022,Burundi,BDI,5.5
+2022,Kenya,KEN,88.5
+2022,Rwanda,RWA,57.0
+2022,South Sudan,SSD,9.1
+2022,Tanzania,TZA,28.9
+2022,Uganda,UGA,30.8
